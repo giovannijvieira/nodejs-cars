@@ -44,7 +44,7 @@ Se estiver usando o RabbitMQ remoto, substitua a URL de conexão pelo URL fornec
 
 5. Em outro terminal, navegue até o diretório do projeto webhook, que está disponível no link a seguir, e siga as instruções para executá-lo:
 
-(https://github.com/giovannijvieira/carsw))
+(https://github.com/giovannijvieira/carsw)
 
 6. Retorne ao terminal anterior e execute a aplicação:
 
