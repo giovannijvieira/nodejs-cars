@@ -48,6 +48,9 @@ Se estiver usando o RabbitMQ remoto, substitua a URL de conexão pelo URL fornec
 6. Retorne ao terminal anterior e execute a aplicação:
 
 *npm run build*
+
+>>>>>>>>>>>>>>>>
+
 *npm start*
 
 
